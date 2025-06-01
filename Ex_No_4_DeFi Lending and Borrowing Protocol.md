@@ -1,4 +1,6 @@
 # Experiment 4: DeFi Lending and Borrowing Protocol
+# Name: VIDHYADHARAN R
+# Reg No: 212222110053
 # Aim:
 To build a decentralized lending protocol where users can deposit assets to earn interest and borrow assets by providing collateral. This experiment introduces concepts like overcollateralization, liquidity pools, and interest accrual in DeFi.
 
@@ -74,8 +76,14 @@ contract DeFiLending {
 
 ```
 # Expected Output:
-Users can deposit ETH and earn interest.
 
+![Screenshot 2025-04-28 120311](https://github.com/user-attachments/assets/c48bae96-62df-4dff-a902-0be41f0ce9a7)
+
+![Screenshot 2025-04-28 120319](https://github.com/user-attachments/assets/39516d29-2ebe-4ad2-bf07-931a1f890fb2)
+
+![Screenshot 2025-04-28 120328](https://github.com/user-attachments/assets/6ac10d4e-78ff-4f03-8bba-f26cc43f68e9)
+
+Users can deposit ETH and earn interest.
 
 Users can borrow ETH by providing collateral.
 
@@ -94,4 +102,4 @@ Introduces risk management: overcollateralization and liquidation.
 Directly related to DeFi protocols like Aave and Compound.
 
 # RESULT : 
-
+The decentralized lending protocol where users can deposit assets to earn interest and borrow assets by providing collateral is executed succesfully.
